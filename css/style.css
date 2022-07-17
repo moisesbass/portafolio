@@ -550,9 +550,9 @@ h6 { font-size: 16px; }
 	float: left;
 	margin-bottom: 36px;
 }
-.edrea_tm_about .right .text p{
-	margin-bottom: 15px;
-}
+/* .edrea_tm_about .right .text p{
+	margin-bottom: 15px; */
+
 .edrea_tm_about .right .text p:last-child{
 	margin-bottom: 0px;
 }
